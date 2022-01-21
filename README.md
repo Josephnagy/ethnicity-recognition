@@ -1,12 +1,11 @@
 # ethnicity-recognition
 
-Final project for Duke's EGR 190: Machine Learning Methods and Practice. Participated in the +DS Poster Session for the Fall 2019 Semester. 
-
 ## Objectives
 1. Use Tensorflow to build a model that successfully identifies ethnicity at 90% confidence
 2. Train the model to identify key attributes it can use in classifying individuals by race
 3. Understand how to correctly preprocess and handle data to use in machine learning model.
 4. Identify parameters that increase the recognition of racial features to apply to more effective models
+5. Gain a better understanding why ML models misidentify people of color at such a high rate 
 
 ## Dataset
 
